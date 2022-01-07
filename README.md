@@ -45,3 +45,19 @@ Install package
           }
       }
 
+
+1. Home
+
+   ![](./media/Home.jpg)
+   
+2. News
+
+   ![](./media/News.jpg)
+
+3. Terminal
+
+   ![](./media/Terminal.jpg)
+
+4. Redis
+
+   ![](./media/redis.jpg)
